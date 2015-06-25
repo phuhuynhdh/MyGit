@@ -18,3 +18,8 @@ p{
 .content{
 	text-align: center;
 }
+
+.header{
+	color: #cecece;
+	padding: 1px;
+}
